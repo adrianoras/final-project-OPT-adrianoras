@@ -1,7 +1,8 @@
 # final-project-OPT
 final-project-adrianoras created by GitHub Classroom
 
-Methods for Deep Learning
+12. Methods for Deep Learning
+
 Shehroz Ali, Alexandra Pilipyuk, Adriano Rasetta
 
 In the repository there are 3 files:
