@@ -1,4 +1,4 @@
-# final-project-adrianoras
+# final-project-OPT
 final-project-adrianoras created by GitHub Classroom
 
 Methods for Deep Learning
